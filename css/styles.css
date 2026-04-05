@@ -8,7 +8,7 @@
 /* Styling for completed tasks */
 .completed {
     text-decoration: line-through;
-    color: #adb5bd !important;
+    color: #adb5bd;
     font-style: italic;
 }
 
